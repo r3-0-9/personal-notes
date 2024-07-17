@@ -18,4 +18,6 @@ Ddtdsets-model
 Text Preprocessing Module
 RAG Enhancement Module
 Note Generation Module
+[Link](https://github.com/r3-0-9/personal-notes/edit/main/README.md)
+
 
